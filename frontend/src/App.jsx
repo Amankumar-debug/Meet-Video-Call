@@ -4,7 +4,7 @@ import Home from './pages/Home'
 import {Route,BrowserRouter as Router,Routes} from 'react-router-dom'
 import LandingPage from './pages/LandingPage'
 import Authentication from './pages/Authentication'
-import { AuthProvider } from './contexts/Authcontext'
+import { AuthProvider } from './contexts/AuthContext'
 import VideoMeet from './pages/VideoMeet'
 import History from './pages/History'
 
